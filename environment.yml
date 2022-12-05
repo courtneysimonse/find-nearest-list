@@ -4,5 +4,5 @@ channels:
   - conda-forge
 dependencies:
   - geopandas=0.12.1
-  - shapely=2.0rc1=py311hba4a9d1_0
+  - shapely>=2.0
  
